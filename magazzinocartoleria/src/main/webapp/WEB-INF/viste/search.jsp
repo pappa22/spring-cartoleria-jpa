@@ -27,6 +27,11 @@
 		</tr>
 		</c:forEach>
 	</table>
+	<br><br>
+		<form action="indietro" method="post">
+		<input type="submit" value="Torna Indietro">
+		
+</form>
 </div>	
 </body>
 </html>
